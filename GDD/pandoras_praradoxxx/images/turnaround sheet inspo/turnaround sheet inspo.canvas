@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0022b1aa01de4b73","type":"file","file":"images/turnaround sheet inspo/1F.jpg","x":-560,"y":-420,"width":318,"height":400},
+		{"id":"23acd143808cc78d","type":"file","file":"images/turnaround sheet inspo/F2.jpg","x":-242,"y":-420,"width":777,"height":400},
+		{"id":"7b1a935da76284e2","type":"file","file":"images/turnaround sheet inspo/1M.jpg","x":-560,"y":-20,"width":572,"height":400},
+		{"id":"e5a05b0f3957770f","type":"file","file":"images/turnaround sheet inspo/M2.jpg","x":12,"y":-20,"width":348,"height":400},
+		{"id":"07cb70d6eea4f60c","type":"file","file":"images/turnaround sheet inspo/F3.jpg","x":-560,"y":-820,"width":547,"height":400},
+		{"id":"5529c017f03d2a5c","type":"file","file":"images/turnaround sheet inspo/F4.jpg","x":-13,"y":-820,"width":550,"height":400},
+		{"id":"ba0c4816e204f6af","type":"file","file":"images/turnaround sheet inspo/M3.jpg","x":-560,"y":380,"width":710,"height":400},
+		{"id":"047c7c7cf43906c1","type":"file","file":"images/turnaround sheet inspo/M4.jpg","x":150,"y":380,"width":539,"height":400},
+		{"id":"e965d862305f8266","type":"file","file":"images/turnaround sheet inspo/m&f.jpg","x":537,"y":-954,"width":1063,"height":1334}
+	],
+	"edges":[]
+}

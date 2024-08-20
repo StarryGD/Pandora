@@ -1,0 +1,3 @@
+- **Description:** A fragment of a mirror that shows fractured reflections, capable of bending reality.
+- 
+- **Function:** Reflects incoming attacks back at the attacker, useful for both defense and counter-attacks.

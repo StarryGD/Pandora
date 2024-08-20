@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "95e7056578984fdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aedff40d286add8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d3ca82cbf10a71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GAME INFO DUMP/overview/gameplay & mechanics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f0fe8ecf9df1c94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cf73ec4f4c2d209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GAME INFO DUMP/levels/level 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "465e2dfd7590b0a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae05df5469004c2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "452646f2b71e17ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c65aa6b1ac6bd7d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6edd4ecc50e7bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423.5
+  },
+  "right": {
+    "id": "8b46653976add850",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb11a72c6e0433e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57a7807f725f7018",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GAME INFO DUMP/overview/gameplay & mechanics.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54fef1c20a20b186",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GAME INFO DUMP/overview/gameplay & mechanics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d80bf78d88325db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "300f60606c3d40c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GAME INFO DUMP/overview/gameplay & mechanics.md"
+              }
+            }
+          },
+          {
+            "id": "9c90f8df940fe6a4",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "6d3ca82cbf10a71e",
+  "lastOpenFiles": [
+    "GAME INFO DUMP/overview/game settings.md",
+    "GAME INFO DUMP/overview/game design doc.md",
+    "GAME INFO DUMP/story/P2.md",
+    "GAME INFO DUMP/story/STORY.md",
+    "GAME INFO DUMP/game play/game play.md",
+    "GAME INFO DUMP/levels/level 1.md",
+    "GAME INFO DUMP/mechanics/mechanics.md",
+    "GAME INFO DUMP/lore/technology.md",
+    "GAME INFO DUMP/lore/relics.md",
+    "GAME INFO DUMP/lore/mystical energy.md",
+    "GAME INFO DUMP/lore/magic.md",
+    "GAME INFO DUMP/lore/artifacts.md",
+    "GAME INFO DUMP/items/Chrono Trigger.md",
+    "GAME INFO DUMP/items/Gorgon’s Eye.md",
+    "GAME INFO DUMP/items/Seraphic Lifeblood.md",
+    "GAME INFO DUMP/items/Arcane Resonator.md",
+    "GAME INFO DUMP/items/Oblivion Dust.md",
+    "GAME INFO DUMP/items/Astral Wings Amulet.md",
+    "GAME INFO DUMP/items/Paradox Mirror Shard.md",
+    "GAME INFO DUMP/items/Phantom Blade Oil.md",
+    "GAME INFO DUMP/items/Mystic Barrier Scroll.md",
+    "GAME INFO DUMP/items/Temporal Bandage.md",
+    "GAME INFO DUMP/items/Mana Elixir.md",
+    "GAME INFO DUMP/items/healing potions.md",
+    "GAME INFO DUMP/LOCATIONS/hidden chambers.md",
+    "GAME INFO DUMP/LOCATIONS/Industrial Sector.md",
+    "images/environment inspo/environment inspo.canvas",
+    "youtube.zip",
+    "blender.zip~RFc8cc433.TMP",
+    "blender.zip",
+    "blender.zip~RFc89dbff.TMP",
+    "GAME INFO DUMP.zip~RFc87ec16.TMP",
+    "GAME INFO DUMP.zip",
+    "images/environment inspo/inside school.png",
+    "images/ui design inspo/Pasted image 20240810155719.jpg",
+    "images/ui design inspo/ui design inspo.canvas",
+    "images/ui design inspo/Pasted image 20240810155310.jpg",
+    "images/ui design inspo/Pasted image 20240810155317.jpg",
+    "images/ui design inspo/Pasted image 20240810155338.jpg",
+    "images/ui design inspo/Pasted image 20240810155419.jpg",
+    "images/ui design inspo/Pasted image 20240810155506.jpg",
+    "images/ui design inspo/Pasted image 20240810155512.jpg",
+    "images/ui design inspo/Pasted image 20240810155636.jpg",
+    "images/ui design inspo/Pasted image 20240810155652.jpg",
+    "images/turnaround sheet inspo/turnaround sheet inspo.canvas",
+    "images/game art style inspo/game art style inspo canvas.canvas",
+    "images/splash screen inspo/splash screen inspo canvas.canvas",
+    "unreal engine/project file",
+    "unreal engine/particle system",
+    "images/game art style inspo",
+    "images/ui design official",
+    "images/CHARACTERS/CHARACTERS.canvas"
+  ]
+}

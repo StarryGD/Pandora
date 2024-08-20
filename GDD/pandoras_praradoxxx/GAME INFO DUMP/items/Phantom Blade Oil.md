@@ -1,0 +1,3 @@
+- **Description:** A small vial of silvery oil that seems to disappear when not looked at directly.
+- 
+- **Function:** Enhances a weapon’s sharpness and inflicts spectral damage, allowing it to bypass Armor and strike true against any foe.

@@ -1,0 +1,2 @@
+- **Description:** A shimmering vial filled with liquid stardust, glowing softly with a blue light.
+- **Function:** Restores a 50%t portion of health over time, gradually mending wounds and replenishing vitality.

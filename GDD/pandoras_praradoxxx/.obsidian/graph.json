@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#audio",
+      "color": {
+        "a": 1,
+        "rgb": 14494764
+      }
+    },
+    {
+      "query": "tag:#blender",
+      "color": {
+        "a": 1,
+        "rgb": 2031360
+      }
+    },
+    {
+      "query": "tag:#image",
+      "color": {
+        "a": 1,
+        "rgb": 25343
+      }
+    },
+    {
+      "query": "tag:#unreal",
+      "color": {
+        "a": 1,
+        "rgb": 1722151
+      }
+    },
+    {
+      "query": "tag:#locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "tag:#youtube",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    },
+    {
+      "query": "tag:overview",
+      "color": {
+        "a": 1,
+        "rgb": 65518
+      }
+    },
+    {
+      "query": "tag:#levels ",
+      "color": {
+        "a": 1,
+        "rgb": 1864419
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.9,
+  "nodeSizeMultiplier": 0.678976175144881,
+  "lineSizeMultiplier": 0.510173857050869,
+  "collapse-forces": false,
+  "centerStrength": 0.537132431852329,
+  "repelStrength": 20,
+  "linkStrength": 0.612685125563426,
+  "linkDistance": 30,
+  "scale": 0.056120109018354854,
+  "close": true
+}

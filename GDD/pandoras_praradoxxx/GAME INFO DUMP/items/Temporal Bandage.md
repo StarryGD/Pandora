@@ -1,0 +1,2 @@
+- **Description:** A roll of cloth infused with temporal magic, appearing to shift in and out of existence.
+- **Function:** Instantly heals a 25% of health and continues to heal over time, also providing a slight speed boost.

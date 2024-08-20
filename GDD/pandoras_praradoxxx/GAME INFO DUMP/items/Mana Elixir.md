@@ -1,0 +1,3 @@
+- **Description:** A swirling, iridescent liquid contained in a crystal flask, humming with magical energy.
+- 
+- **Function:** Restores 50% of the player’s mana, allowing for the continued casting of spells and abilities.

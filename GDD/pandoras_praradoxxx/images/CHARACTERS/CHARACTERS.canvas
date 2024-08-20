@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"980c54311662ebe9","type":"text","text":"CHARCHTER COMPAIONS ","x":-207,"y":-500,"width":250,"height":60},
+		{"id":"787391ff58e65440","type":"text","text":"Kai Draconis","x":482,"y":-258,"width":250,"height":60},
+		{"id":"85ea24f19bddb7c0","type":"file","file":"images/CHARACTERS/LUNA MOONSTONE.png","x":-407,"y":-99,"width":200,"height":400},
+		{"id":"90e5e266188e35a3","type":"file","file":"images/CHARACTERS/ATTICTCUS T CLAW.png","x":-895,"y":-100,"width":400,"height":400},
+		{"id":"d2bb879dd51b8d95","type":"text","text":"LUNA MOONSTONE","x":-407,"y":-261,"width":250,"height":63},
+		{"id":"f3aefc37dbd0bf3c","type":"text","text":"PHASE","x":-820,"y":-258,"width":250,"height":60},
+		{"id":"f0771c773d56d49f","type":"file","file":"images/CHARACTERS/Kai Draconis.jpg","x":444,"y":-98,"width":327,"height":399},
+		{"id":"6b926e4888668e3a","type":"file","file":"images/CHARACTERS/Rhea Pyxis.png","x":-157,"y":-100,"width":533,"height":400},
+		{"id":"b9b446d87def5f0e","type":"text","text":"Rhea Pyxis","x":-15,"y":-261,"width":250,"height":60},
+		{"id":"6a18a6ae7071b625","type":"text","text":"imprtant  non plyable","x":1320,"y":-500,"width":250,"height":60},
+		{"id":"9bab543ec06e6ad4","type":"text","text":"Professor Zephyrus (prof zaphy)","x":1028,"y":-213,"width":250,"height":60},
+		{"id":"44db12275e109295","type":"text","text":"Nyx","x":1559,"y":-215,"width":250,"height":62},
+		{"id":"d209eb286947f9d5","type":"file","file":"images/CHARACTERS/zaphy.jpg","x":953,"y":-98,"width":400,"height":400},
+		{"id":"c29cff0360c0cce9","type":"text","text":"zaphys familiar  - Chain","x":1028,"y":400,"width":250,"height":59},
+		{"id":"c41a6bb8a1e2a504","type":"file","file":"images/CHARACTERS/chain.png","x":953,"y":560,"width":400,"height":293},
+		{"id":"209d9b94fc8a1797","type":"file","file":"images/CHARACTERS/nyx.png","x":1543,"y":-60,"width":266,"height":400},
+		{"id":"5c242b13af924f45","type":"text","text":" nyxs- familiars chaos & mutiny ","x":1550,"y":439,"width":250,"height":60},
+		{"id":"266f950753b013f1","type":"file","file":"images/CHARACTERS/mutantiy.jpg","x":1860,"y":653,"width":398,"height":400},
+		{"id":"169d3140eb6fe58f","type":"file","file":"images/CHARACTERS/chaos.png","x":1400,"y":653,"width":400,"height":400},
+		{"id":"ed6163f2dc0c4885","type":"text","text":"npcs  of note ","x":-140,"y":960,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f577d74cef3ca9d4","fromNode":"980c54311662ebe9","fromSide":"bottom","toNode":"f3aefc37dbd0bf3c","toSide":"top"},
+		{"id":"9ea05cfb91b2d4bf","fromNode":"f3aefc37dbd0bf3c","fromSide":"bottom","toNode":"90e5e266188e35a3","toSide":"top"},
+		{"id":"b487d97b39d9d86a","fromNode":"980c54311662ebe9","fromSide":"bottom","toNode":"d2bb879dd51b8d95","toSide":"top"},
+		{"id":"4563422ea4bf616e","fromNode":"980c54311662ebe9","fromSide":"bottom","toNode":"b9b446d87def5f0e","toSide":"top"},
+		{"id":"3c12af7ef8af8c66","fromNode":"d2bb879dd51b8d95","fromSide":"bottom","toNode":"85ea24f19bddb7c0","toSide":"top"},
+		{"id":"7a0ea1f17b009420","fromNode":"b9b446d87def5f0e","fromSide":"bottom","toNode":"6b926e4888668e3a","toSide":"top"},
+		{"id":"4862e6ce1044ae5c","fromNode":"980c54311662ebe9","fromSide":"bottom","toNode":"787391ff58e65440","toSide":"top"},
+		{"id":"1e610dedfede5b79","fromNode":"787391ff58e65440","fromSide":"bottom","toNode":"f0771c773d56d49f","toSide":"top"},
+		{"id":"d51878b9ddfa8ba3","fromNode":"6a18a6ae7071b625","fromSide":"bottom","toNode":"9bab543ec06e6ad4","toSide":"top"},
+		{"id":"538a19793049f505","fromNode":"6a18a6ae7071b625","fromSide":"bottom","toNode":"44db12275e109295","toSide":"top"},
+		{"id":"334093791d37683a","fromNode":"9bab543ec06e6ad4","fromSide":"bottom","toNode":"d209eb286947f9d5","toSide":"top"},
+		{"id":"71a8eb1e3c8c129d","fromNode":"d209eb286947f9d5","fromSide":"bottom","toNode":"c29cff0360c0cce9","toSide":"top"},
+		{"id":"eaf0cab647d43e40","fromNode":"c29cff0360c0cce9","fromSide":"bottom","toNode":"c41a6bb8a1e2a504","toSide":"top"},
+		{"id":"79368e42d9a00473","fromNode":"44db12275e109295","fromSide":"bottom","toNode":"209d9b94fc8a1797","toSide":"top"},
+		{"id":"9e70c8bef6fde522","fromNode":"209d9b94fc8a1797","fromSide":"bottom","toNode":"5c242b13af924f45","toSide":"top"},
+		{"id":"14179e2f3e5f9a7c","fromNode":"5c242b13af924f45","fromSide":"bottom","toNode":"266f950753b013f1","toSide":"top"},
+		{"id":"7f2528e55f149354","fromNode":"5c242b13af924f45","fromSide":"bottom","toNode":"169d3140eb6fe58f","toSide":"top"}
+	]
+}

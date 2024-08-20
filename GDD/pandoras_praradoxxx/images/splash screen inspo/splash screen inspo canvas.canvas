@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"25355c577f617c81","type":"file","file":"images/splash screen inspo/1.png","x":-700,"y":-760,"width":400,"height":225},
+		{"id":"4a7631c450daccb3","type":"file","file":"images/splash screen inspo/2.png","x":120,"y":-737,"width":400,"height":202},
+		{"id":"32ba30a5cf6ccec4","type":"file","file":"images/splash screen inspo/3.png","x":-200,"y":-735,"width":240,"height":400}
+	],
+	"edges":[]
+}
